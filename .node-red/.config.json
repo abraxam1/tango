@@ -457,7 +457,7 @@
      "enabled": true,
      "local": true,
      "module": "node-red-node-mysql",
-     "file": "/home/usuario/.node-red/node_modules/node-red-node-mysql/68-mysql.js"
+     "file": "/home/usuario/tango/.node-red/node_modules/node-red-node-mysql/68-mysql.js"
     }
    }
   },
@@ -476,7 +476,7 @@
      "enabled": true,
      "local": true,
      "module": "node-red-contrib-modbustcp",
-     "file": "/home/usuario/.node-red/node_modules/node-red-contrib-modbustcp/modbustcp.js"
+     "file": "/home/usuario/tango/.node-red/node_modules/node-red-contrib-modbustcp/modbustcp.js"
     }
    }
   },
@@ -493,7 +493,7 @@
      "enabled": true,
      "local": true,
      "module": "node-red-contrib-modbus",
-     "file": "/home/usuario/.node-red/node_modules/node-red-contrib-modbus/modbus/modbus-client.js"
+     "file": "/home/usuario/tango/.node-red/node_modules/node-red-contrib-modbus/modbus/modbus-client.js"
     },
     "Modbus-Response": {
      "name": "Modbus-Response",
@@ -503,7 +503,7 @@
      "enabled": true,
      "local": true,
      "module": "node-red-contrib-modbus",
-     "file": "/home/usuario/.node-red/node_modules/node-red-contrib-modbus/modbus/modbus-response.js"
+     "file": "/home/usuario/tango/.node-red/node_modules/node-red-contrib-modbus/modbus/modbus-response.js"
     },
     "Modbus-Read": {
      "name": "Modbus-Read",
@@ -513,7 +513,7 @@
      "enabled": true,
      "local": true,
      "module": "node-red-contrib-modbus",
-     "file": "/home/usuario/.node-red/node_modules/node-red-contrib-modbus/modbus/modbus-read.js"
+     "file": "/home/usuario/tango/.node-red/node_modules/node-red-contrib-modbus/modbus/modbus-read.js"
     },
     "Modbus-Getter": {
      "name": "Modbus-Getter",
@@ -523,7 +523,7 @@
      "enabled": true,
      "local": true,
      "module": "node-red-contrib-modbus",
-     "file": "/home/usuario/.node-red/node_modules/node-red-contrib-modbus/modbus/modbus-getter.js"
+     "file": "/home/usuario/tango/.node-red/node_modules/node-red-contrib-modbus/modbus/modbus-getter.js"
     },
     "Modbus-Flex-Getter": {
      "name": "Modbus-Flex-Getter",
@@ -533,7 +533,7 @@
      "enabled": true,
      "local": true,
      "module": "node-red-contrib-modbus",
-     "file": "/home/usuario/.node-red/node_modules/node-red-contrib-modbus/modbus/modbus-flex-getter.js"
+     "file": "/home/usuario/tango/.node-red/node_modules/node-red-contrib-modbus/modbus/modbus-flex-getter.js"
     },
     "Modbus-Write": {
      "name": "Modbus-Write",
@@ -543,7 +543,7 @@
      "enabled": true,
      "local": true,
      "module": "node-red-contrib-modbus",
-     "file": "/home/usuario/.node-red/node_modules/node-red-contrib-modbus/modbus/modbus-write.js"
+     "file": "/home/usuario/tango/.node-red/node_modules/node-red-contrib-modbus/modbus/modbus-write.js"
     },
     "Modbus-Flex-Write": {
      "name": "Modbus-Flex-Write",
@@ -553,7 +553,7 @@
      "enabled": true,
      "local": true,
      "module": "node-red-contrib-modbus",
-     "file": "/home/usuario/.node-red/node_modules/node-red-contrib-modbus/modbus/modbus-flex-write.js"
+     "file": "/home/usuario/tango/.node-red/node_modules/node-red-contrib-modbus/modbus/modbus-flex-write.js"
     },
     "Modbus-Server": {
      "name": "Modbus-Server",
@@ -563,7 +563,7 @@
      "enabled": true,
      "local": true,
      "module": "node-red-contrib-modbus",
-     "file": "/home/usuario/.node-red/node_modules/node-red-contrib-modbus/modbus/modbus-server.js"
+     "file": "/home/usuario/tango/.node-red/node_modules/node-red-contrib-modbus/modbus/modbus-server.js"
     },
     "Modbus-Flex-Server": {
      "name": "Modbus-Flex-Server",
@@ -573,7 +573,7 @@
      "enabled": true,
      "local": true,
      "module": "node-red-contrib-modbus",
-     "file": "/home/usuario/.node-red/node_modules/node-red-contrib-modbus/modbus/modbus-flex-server.js"
+     "file": "/home/usuario/tango/.node-red/node_modules/node-red-contrib-modbus/modbus/modbus-flex-server.js"
     },
     "Modbus-Queue-Info": {
      "name": "Modbus-Queue-Info",
@@ -583,7 +583,7 @@
      "enabled": true,
      "local": true,
      "module": "node-red-contrib-modbus",
-     "file": "/home/usuario/.node-red/node_modules/node-red-contrib-modbus/modbus/modbus-queue-info.js"
+     "file": "/home/usuario/tango/.node-red/node_modules/node-red-contrib-modbus/modbus/modbus-queue-info.js"
     },
     "Modbus-Flex-Connector": {
      "name": "Modbus-Flex-Connector",
@@ -593,7 +593,7 @@
      "enabled": true,
      "local": true,
      "module": "node-red-contrib-modbus",
-     "file": "/home/usuario/.node-red/node_modules/node-red-contrib-modbus/modbus/modbus-flex-connector.js"
+     "file": "/home/usuario/tango/.node-red/node_modules/node-red-contrib-modbus/modbus/modbus-flex-connector.js"
     },
     "Modbus-IO-Config": {
      "name": "Modbus-IO-Config",
@@ -603,7 +603,7 @@
      "enabled": true,
      "local": true,
      "module": "node-red-contrib-modbus",
-     "file": "/home/usuario/.node-red/node_modules/node-red-contrib-modbus/modbus/modbus-io-config.js"
+     "file": "/home/usuario/tango/.node-red/node_modules/node-red-contrib-modbus/modbus/modbus-io-config.js"
     },
     "Modbus-Response-Filter": {
      "name": "Modbus-Response-Filter",
@@ -613,7 +613,7 @@
      "enabled": true,
      "local": true,
      "module": "node-red-contrib-modbus",
-     "file": "/home/usuario/.node-red/node_modules/node-red-contrib-modbus/modbus/modbus-response-filter.js"
+     "file": "/home/usuario/tango/.node-red/node_modules/node-red-contrib-modbus/modbus/modbus-response-filter.js"
     }
    }
   }
